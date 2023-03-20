@@ -2,5 +2,5 @@
 
 ### Entrega de atividades:
 
-- [ ] Aula 01 - Gráficos e Pandas
+- [x] Aula 01 - Gráficos e Pandas
 - [x] Aula 02 - Matplotlib
